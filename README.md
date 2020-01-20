@@ -5,7 +5,7 @@
   Birgit Samer </head>
 <br>
 <img> 
- C:\Users\SAMER\Documents\BIRGIT\eigene FOTOS
+https://at.linkedin.com/in/birgit-samer-b1223419a
 <body> 
  About Me
 <br> 
